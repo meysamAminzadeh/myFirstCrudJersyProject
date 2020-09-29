@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jersey library">
+    <CLASSES>
+      <root url="file://D:/JavaeeAPP/jersey library" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/JavaeeAPP/jersey library" />
+    </SOURCES>
+    <jarDirectory url="file://D:/JavaeeAPP/jersey library" recursive="false" />
+    <jarDirectory url="file://D:/JavaeeAPP/jersey library" recursive="false" type="SOURCES" />
+  </library>
+</component>
